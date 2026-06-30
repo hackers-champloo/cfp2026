@@ -8,7 +8,7 @@
 
 ## 応募方法
 
-1.  [こちらのプロジェクトにIssueを作成](https://github.com/hackers-champloo/cfp2026/issues/new)してください。
+1.  [こちらのプロジェクトにIssueを作成](https://github.com/hackers-champloo/cfp2026/issues/new?template=%E3%83%88%E3%83%BC%E3%82%AF%E7%94%B3%E8%BE%BC%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.md)してください。
     - 応募の際にGitHubアカウントが必要になります。
     - 応募には以下の項目が必要です。
         - Issueのタイトルをトークタイトルとして作成します
